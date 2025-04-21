@@ -105,18 +105,3 @@ streamlit run app.py
 ## 🧪 Testes
 
 *Testes automatizados não incluídos, mas podem ser integrados com `pytest`.*
-
----
-
-## 🤝 Contribuindo
-
-- Faça um fork do repositório
-- Crie uma nova branch: `git checkout -b feature/minha-funcionalidade`
-- Commit suas alterações
-- Envie um Pull Request 🚀
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
