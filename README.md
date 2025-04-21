@@ -1,12 +1,8 @@
-# 📈 MercadoNotebook  
+![image](https://github.com/user-attachments/assets/259963bb-9736-468f-8451-815d6cd020fc)
+
+
 *A Streamlit-powered data pipeline to scrape, transform and visualize notebook offers from Mercado Livre.*
 
----
-
-### ![Logo Placeholder](logo.png)
-> *📷 Add your project logo here*
-
----
 
 🇧🇷 [Leia em português](README.pt-br.md)
 
@@ -14,8 +10,10 @@
 
 ### 📸 Dashboard Previews
 > *(Add your screenshots here)*  
-![screenshot](screenshots/dashboard1.png)  
-![screenshot](screenshots/dashboard2.png)
+
+![image](https://github.com/user-attachments/assets/c518dd9b-fcfe-4bcb-be2f-583f36853413)
+
+![image](https://github.com/user-attachments/assets/e33d9920-0c28-482b-9d7c-359a7d3a4dbf)
 
 ---
 
@@ -32,7 +30,7 @@
 ## 🏗️ Project Structure
 
 ```
-etl_python/
+tielytics/
 ├── src/
 │   ├── scrapy_spider/           # Scrapy spider to extract data
 │   │   └── notebook_spider.py
