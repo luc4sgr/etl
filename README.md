@@ -104,19 +104,3 @@ streamlit run app.py
 ## 🧪 Testing
 
 *Tests not included, but you can integrate with `pytest` for custom pipelines or unit tests.*
-
----
-
-## 🤝 Contributing
-
-- Fork this repo
-- Create a new branch: `git checkout -b feature/my-feature`
-- Commit your changes
-- Push and open a PR 🚀
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-# tielytics
