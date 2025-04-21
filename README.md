@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/259963bb-9736-468f-8451-815d6cd020fc)
-
-
 *A Streamlit-powered data pipeline to scrape, transform and visualize notebook offers from Mercado Livre.*
 
 
