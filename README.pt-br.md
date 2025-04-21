@@ -1,22 +1,19 @@
-# 🖥️ MercadoNotebook
+![image](https://github.com/user-attachments/assets/259963bb-9736-468f-8451-815d6cd020fc)
+
 
 *Um pipeline de dados com Streamlit para buscar, transformar e visualizar ofertas de notebooks no Mercado Livre.*
 
----
-
-### ![Logo Placeholder](logo.png)
-> *📷 Adicione o logo do projeto aqui*
-
----
 
 🇺🇸 [Read in English](README.md)
 
 ---
 
 ### 📸 Imagens do Dashboard
-> *(Adicione aqui capturas de tela)*  
-![screenshot](screenshots/dashboard1.png)  
-![screenshot](screenshots/dashboard2.png)
+
+![image](https://github.com/user-attachments/assets/c518dd9b-fcfe-4bcb-be2f-583f36853413)
+
+![image](https://github.com/user-attachments/assets/e33d9920-0c28-482b-9d7c-359a7d3a4dbf)
+
 
 ---
 
@@ -33,7 +30,7 @@
 ## 🏗️ Estrutura do Projeto
 
 ```
-etl_python/
+tielytics/
 ├── src/
 │   ├── scrapy_spider/           # Spider para extração de dados
 │   │   └── notebook_spider.py
