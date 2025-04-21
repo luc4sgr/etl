@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/259963bb-9736-468f-8451-815d6cd020fc)
-
-
-*Um pipeline de dados com Streamlit para buscar, transformar e visualizar ofertas de notebooks no Mercado Livre.*
+*Um pipeline de dados com Streamlit para raspar, transformar e visualizar ofertas de notebooks no Mercado Livre.*
 
 
 🇺🇸 [Read in English](README.md)
