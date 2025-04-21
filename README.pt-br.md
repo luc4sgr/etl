@@ -1,4 +1,4 @@
-*Um pipeline de dados com Streamlit para raspar, transformar e visualizar ofertas de notebooks no Mercado Livre.*
+*Um pipeline de dados com Streamlit para extrair, transformar e visualizar ofertas de notebooks no Mercado Livre.*
 
 
 🇺🇸 [Read in English](README.md)
