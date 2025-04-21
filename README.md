@@ -9,7 +9,6 @@
 ---
 
 ### 📸 Dashboard Previews
-> *(Add your screenshots here)*  
 
 ![image](https://github.com/user-attachments/assets/c518dd9b-fcfe-4bcb-be2f-583f36853413)
 
